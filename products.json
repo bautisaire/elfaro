@@ -1,25 +1,25 @@
 {
 "products":[
   {
-  "id": 1
+  "id": "1"
   "name": "Alemana"
    "code": "#001"
    "currentPrice": "600"
     "currentCost": "428"
   },
   {
-  "id": 2
+  "id": "2"
   "name": "Frola"
    "code": "#002"
    "currentPrice": "500"
    "currentCost": "328"
   },
   {
-  "id": 3
+  "id": "3"
   "name": "Húngara"
    "code": "#003"
    "currentPrice": "600"
    "currentCost": "428"
   }
-]
+]s
 }
