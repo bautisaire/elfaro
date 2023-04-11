@@ -1,11 +1,10 @@
 {
-  "products": [
-    {
+  "products": [  {
       "id": "1",
       "name": "Harina 0000",
       "quantity": 25000,
       "currentCost": 400,
       "PreviusCost": 300,
       
+}]
 }
-    ]
